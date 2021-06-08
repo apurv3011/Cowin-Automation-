@@ -1,0 +1,1397 @@
+[
+    {
+        "center_id": 520124,
+        "name": "Kuchaikote CHC",
+        "address": "RCH Campus Kuchaikote CHC Kuchaikote CHC",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Kuchaikote",
+        "pincode": 841501,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "54a2acea-9c6c-4f2b-94dc-9ae103dad53c",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 289585,
+        "name": "HWC Brindawan",
+        "address": "Hsc Brindawan",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Thawe",
+        "pincode": 841440,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "43a07904-1614-4a08-aecb-7ed50f21e85e",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 520121,
+        "name": "Bijayipur PHC",
+        "address": "RCH Campus Bijayipur PHC Bijayipur PHC",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Bijayipur",
+        "pincode": 841508,
+        "lat": 26,
+        "long": 83,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "77af611f-b2ed-4244-bbbc-acb482f5c870",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 288616,
+        "name": "Bathuwa Bazar Panchayat Bhawan",
+        "address": "Bathuwa Bazar Panchayat Bhawan Awc 26",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Phulwariya",
+        "pincode": 841425,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "43cfb18f-dcc9-4385-b18d-46c87d4b1c4b",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 646440,
+        "name": "Chaumukha",
+        "address": "Panchayat Bhawan Chaumukha",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Bijayipur",
+        "pincode": 841508,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "c20775fa-093a-4b39-a163-19fed2612adb",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 520119,
+        "name": "Baikunthpur CHC",
+        "address": "RCH Campus Baikunthpur CHC Baikunthpur CHC",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Baikunthpur",
+        "pincode": 841409,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "0c5dcd4f-c0c5-49be-8487-524bbe4831ac",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 277404,
+        "name": "Gopalganj DH",
+        "address": "DAV High School Gopalganj",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Gopalganj",
+        "pincode": 841428,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "635c2e57-8692-4665-8fca-4575efd0fba1",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 280663,
+        "name": "Hsc Rajapur Kuchaikote",
+        "address": "Hsc Rajapur Awc",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Kuchaikote",
+        "pincode": 841501,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "38b5a8e3-21f5-43b8-a26c-fd82825a015f",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 288431,
+        "name": "HWC Jamunaha",
+        "address": "HWC Jamunaha Jamunaha Bazar",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Panchdeori",
+        "pincode": 841425,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "35888fe0-e648-442c-b3c8-ef429546275b",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 520120,
+        "name": "BARAULI PHC",
+        "address": "RCH Campus Barauli PHC Barauli PHC",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Barauli",
+        "pincode": 841405,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "895550a6-d988-404a-b86c-d9675864c047",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 646469,
+        "name": "Gaura BAZAR",
+        "address": "Panchayat Bhawan Gaura",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Kateya",
+        "pincode": 841437,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "21444926-950b-4115-8f79-13c52bedb80a",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 288603,
+        "name": "Koyladewa Madhya Awc Par",
+        "address": "Koyladewa Madhya Awc Par",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Phulwariya",
+        "pincode": 841425,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "6c07a3a1-4a2a-4c85-b325-10a9a0b668e9",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 520125,
+        "name": "Manjha CHC",
+        "address": "RCH Campus Manjha CHC Manjha CHC",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Manjha",
+        "pincode": 841427,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "0e9106c6-b482-4220-9cc6-4eeba59acee1",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 288675,
+        "name": "Gidha AWC",
+        "address": "Gidha",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Phulwariya",
+        "pincode": 841425,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "f1ec68b6-0129-4a5a-a935-4772cac3646e",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 280292,
+        "name": "Rudrapur HSC",
+        "address": "Panchayat Bhawan Rudrapur",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Kateya",
+        "pincode": 841437,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "aec44e35-ffe0-4c06-b6cb-f6845b7386c1",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 278265,
+        "name": "Kabilaswa AWC",
+        "address": "Kabilaswa Hsc Awc",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Hathuwa",
+        "pincode": 841436,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "fdf109ab-6b81-4510-951d-2b50b16a9169",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 606026,
+        "name": "Gopalganj Sadar PHC",
+        "address": "Gopalganj Sadar PHC Gopalganj",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Gopalganj",
+        "pincode": 841428,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "191571fd-7acb-4119-868c-50d6197d9f71",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 282575,
+        "name": "Panchayat Bhawan Chamanpura",
+        "address": "Panchayat Bhawan Chamanpura",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Baikunthpur",
+        "pincode": 841409,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "c620d3a2-33a2-40f5-aad4-0f385b1624fa",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 644926,
+        "name": "Panchayat Bhawan Paikauli",
+        "address": "Panchayat Bhawan Paikauli",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Phulwariya",
+        "pincode": 841425,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "724666a3-25fb-4955-906a-4cafa0f0c680",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 520126,
+        "name": "Phulwariya PHC",
+        "address": "RCH Campus Phulwariya PHC Phulwariya PHC",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Phulwariya",
+        "pincode": 841425,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "e4822e82-24ee-49f3-be44-47868e8e1b41",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 289750,
+        "name": "Trilokpur West",
+        "address": "Trilokpur West",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Uchkagaon",
+        "pincode": 841436,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "73520119-3078-404e-971c-4a2bb2c06f4b",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 520128,
+        "name": "THAWE PHC",
+        "address": "RCH Campus Thawe PHC Thawe PHC",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Thawe",
+        "pincode": 841440,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "c91bb116-4b61-41f0-a69c-fb5c84e4f193",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 289069,
+        "name": "Mauje Budhsi Panchayat Bhawan",
+        "address": "Panchayat Bhawan Budhsi",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Sidhwaliya",
+        "pincode": 841423,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "b722a78e-4bb7-4481-91a4-132adf67424f",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 283294,
+        "name": "Hsc Mirjapur",
+        "address": "Hsc Mirjapur",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Barauli",
+        "pincode": 841405,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "e8abff82-8300-462a-9e7a-67eb3f298e48",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 277558,
+        "name": "Kisan Bhawan Bishunpur East",
+        "address": "Kisan Bhawan Bishunpur East Gopalganj",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Gopalganj",
+        "pincode": 841428,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "d14c3beb-05bd-4769-a75e-29e28049abaf",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 719427,
+        "name": "FLW MANJHA CHC",
+        "address": "MANJHA CHC",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Manjha",
+        "pincode": 841427,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "becbc230-93bc-48c6-97e5-931ba9104c49",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 285175,
+        "name": "Madhusareya Bhediyari Tola",
+        "address": "Madhusareya Bhediyari Tola",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Manjha",
+        "pincode": 841427,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "eb3cbfce-b489-47d7-9e89-c110174c117d",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 284416,
+        "name": "Badki Chhathiyaw",
+        "address": "Panchayat Bhawan Badki Chhathiyaw",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Bhore",
+        "pincode": 841426,
+        "lat": 25,
+        "long": 85,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "e43d7c29-5888-43ab-99cf-b9a7b1613a46",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 283267,
+        "name": "Sarfara Panchayat Bhawan",
+        "address": "Sarfara Panchayat Bhawan",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Barauli",
+        "pincode": 841405,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "9b7cf933-e886-4e9a-a8ac-ab8cd224d297",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 288691,
+        "name": "Hsc Karariya",
+        "address": "Hsc Karariya",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Phulwariya",
+        "pincode": 841425,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "d9240575-1f34-4c88-9a2c-248b80283fca",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 284348,
+        "name": "Hardiya Purab",
+        "address": "Panchayat Bhawan Hardiya Purab",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Bhore",
+        "pincode": 841426,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "c5101a07-2040-458d-888a-3a0620fc8bb6",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 278267,
+        "name": "Bhojhata South",
+        "address": "Bhojhata South Awc",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Hathuwa",
+        "pincode": 841436,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "d989c130-87d1-42fc-83f0-1788394affd6",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 520153,
+        "name": "BHORE PHC",
+        "address": "Bhore Health Center",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Bhore",
+        "pincode": 841426,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "b6cf0a59-a802-41e1-b39a-52a07cde1529",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 288999,
+        "name": "APHC Mahammadpur",
+        "address": "APHC MahammadpurSidhwaliya Gopalganj Bihar",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Sidhwaliya",
+        "pincode": 841423,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "e5bb6165-2685-48bb-9b2e-c0b71a110391",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 288658,
+        "name": "Bairagi Tola Awc Par",
+        "address": "Bairagi Tola Awc Par",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Phulwariya",
+        "pincode": 841425,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "6cfa94b1-4e80-48ae-b91d-8cecf49d82c2",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 520154,
+        "name": "Kateya PHC",
+        "address": "RCH Campus Kateya RH Kateya RH",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Kateya",
+        "pincode": 841437,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "e1e362b9-592b-4086-8e14-9d688210de3f",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 283215,
+        "name": "Hsc Salempur Derwa",
+        "address": "Hsc Salempur Derwa",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Barauli",
+        "pincode": 841405,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "db77f3d0-34a7-4fb1-a6fa-d2cdb3cb5ba2",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 562240,
+        "name": "Panchadeori PHC",
+        "address": "Panchadeori PHC Panchdeori",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Panchdeori",
+        "pincode": 841437,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "a0909571-fa68-4396-9355-5cb9d41f0608",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 289072,
+        "name": "Budhashi Kund",
+        "address": "Budhashi Kund",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Sidhwaliya",
+        "pincode": 841423,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "16818e82-9bf4-4f83-838f-cbf1351eaa04",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 289006,
+        "name": "Kashi Tegrahi Harijan Tola",
+        "address": "Kashi Tegrahi Harijan Tola",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Sidhwaliya",
+        "pincode": 841423,
+        "lat": 0,
+        "long": 0,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "c0b8ebfc-20a3-42cc-8e8e-b2622c05bbb3",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 280346,
+        "name": "Baikunthpur Awc 137",
+        "address": "Baikunthpur Awc 137",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Kateya",
+        "pincode": 841437,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "973e62d5-0218-4d07-ab99-f0171074db1d",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 289826,
+        "name": "Awc Jhirawa",
+        "address": "Awc Jhirawa",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Uchkagaon",
+        "pincode": 841438,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "b2aa4289-04f3-4394-8e84-c142210f5a80",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 280360,
+        "name": "Belahikhas",
+        "address": "Belahikhas",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Kateya",
+        "pincode": 841437,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "75e95d6c-9780-45fa-8975-f73225fb4c06",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 280674,
+        "name": "Barahara Purvi Awc 24",
+        "address": "Barahara Purvi Awc 24",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Kuchaikote",
+        "pincode": 841501,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "5b617c1d-4f94-47d0-b64a-835c7925036c",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    {
+        "center_id": 520123,
+        "name": "Hathuwa PHC",
+        "address": "Hathuwa SDH Hathuwa",
+        "state_name": "Bihar",
+        "district_name": "Gopalganj",
+        "block_name": "Hathuwa",
+        "pincode": 841436,
+        "lat": 26,
+        "long": 84,
+        "from": "09:00:00",
+        "to": "18:00:00",
+        "fee_type": "Free",
+        "sessions": [
+            {
+                "session_id": "fa9c528c-d9b1-4374-85ab-dd0690b89310",
+                "date": "02-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "slots": [
+                    "09:00AM-11:00AM",
+                    "11:00AM-01:00PM",
+                    "01:00PM-03:00PM",
+                    "03:00PM-06:00PM"
+                ],
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    }
+]
